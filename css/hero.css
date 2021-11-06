@@ -1,7 +1,7 @@
 body{
 	margin: 0;
 	font-family: monospace;
-	background-image: url("https://static.wikia.nocookie.net/shingekinokyojin/images/6/60/Season_2.jpg/revision/latest/scale-to-width-down/1000?cb=20210711102138");
+	background-image: url("../img/back.jpg");
   	background-repeat: no-repeat;
   	background-position: center top;
  	background-attachment: scroll;
